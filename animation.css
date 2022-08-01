@@ -1,0 +1,19 @@
+@keyframes tojump{
+    0%{
+        bottom:0%;
+    }
+    50%{
+        bottom:25%;
+    }
+    100%{
+        bottom:0%;
+    }
+}
+@keyframes slide{
+    from {
+        right:-50%;
+    }
+    to{
+        right:100%;
+    }
+}
