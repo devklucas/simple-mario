@@ -1,12 +1,12 @@
 @keyframes tojump{
     0%{
-        bottom:0%;
+        bottom:0px;
     }
     50%{
-        bottom:25%;
+        bottom:7rem;
     }
     100%{
-        bottom:0%;
+        bottom:0px;
     }
 }
 @keyframes slide{
